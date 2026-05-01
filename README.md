@@ -28,8 +28,8 @@
 ---
 
 ## 📂 Projects
-- 📊 Customer Segmentation (RFM Analysis)  
-- 📈 Excel Sales Dashboard  
+- 📊 Customer-Segment-RFM - https://github.com/akshay-code10/Customer-Segment--RFM
+- 📈 Amazon-Sales-Dashboard - https://github.com/akshay-code10/Amazon-Sales-Dashboard
 
 ---
 

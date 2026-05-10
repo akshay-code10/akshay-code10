@@ -35,7 +35,9 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/akshay-441242311  
+- 💼 LinkedIn: https://linkedin.com/in/akshay-441242311
+- 🧑‍💻 GitHub: https://github.com/akshay-code10/akshay-code10
+- 📧 Email: akshaykumar82368@gmail.com
 
 ---
 

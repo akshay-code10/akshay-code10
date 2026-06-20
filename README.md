@@ -1,6 +1,6 @@
 # Hi, I'm Akshay 👋
 
-💼 Fraud & Dispute Analyst | Data Analyst | Risk & Chargeback Specialist  
+💼 Fraud & Dispute Analyst | Data Analyst | Risk & Chargeback Specialist
 📊 Python | SQL | Power BI | Tableau | Excel | Statistics and EDA
 
 💡 I combine financial risk domain knowledge with data analytics to uncover insights and solve real-world business problems.

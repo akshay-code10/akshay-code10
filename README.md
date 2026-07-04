@@ -28,9 +28,10 @@
 ---
 
 ## 📂 Projects
-- 📊 Python Project (Customer-Segment-RFM) - [https://github.com/akshay-code10/Customer-Segment--RFM](https://github.com/akshay-code10/Customer-Segment-RFM)
+- 🐍  Python Project (Customer-Segment-RFM) - [https://github.com/akshay-code10/Customer-Segment--RFM](https://github.com/akshay-code10/Customer-Segment-RFM)
 - 📈 Excel Project (Amazon Sales Dashboard) - https://github.com/akshay-code10/Amazon-Sales-Dashboard
 - 📊 Statistics Project (Customer-Insights-Statistical-Investigation) - https://github.com/akshay-code10/Customer-Insights-Statistical-Investigation
+- 🗄️ SQL Project(Retail-Store-Management-System) - https://github.com/akshay-code10/Retail-Store-Management-System
 
 ---
 

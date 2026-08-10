@@ -32,6 +32,7 @@
 - 📈 Excel Project (Amazon Sales Dashboard) - https://github.com/akshay-code10/Amazon-Sales-Dashboard
 - 📊 Statistics Project (Customer-Insights-Statistical-Investigation) - https://github.com/akshay-code10/Customer-Insights-Statistical-Investigation
 - 🗄️ SQL Project(Retail-Store-Management-System) - https://github.com/akshay-code10/Retail-Store-Management-System
+- 📊 Power BI Project(Student Social Media Addiction Analysis) - https://github.com/akshay-code10/Student-Social-Media-Addiction-Analysis
 
 ---
 

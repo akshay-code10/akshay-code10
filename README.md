@@ -29,11 +29,11 @@
 
 ## 📂 Projects
 - 💳 UPI-Fraud-Risk-Transaction-Analytics - https://github.com/akshay-code10/UPI-Fraud-Risk-Transaction-Analytics
-- 🐍  Python Project (Customer-Segment-RFM) - [https://github.com/akshay-code10/Customer-Segment--RFM](https://github.com/akshay-code10/Customer-Segment-RFM)
-- 📈 Excel Project (Amazon Sales Dashboard) - https://github.com/akshay-code10/Amazon-Sales-Dashboard
-- 📊 Statistics Project (Customer-Insights-Statistical-Investigation) - https://github.com/akshay-code10/Customer-Insights-Statistical-Investigation
-- 🗄️ SQL Project(Retail-Store-Management-System) - https://github.com/akshay-code10/Retail-Store-Management-System
-- 📊 Power BI Project(Student Social Media Addiction Analysis) - https://github.com/akshay-code10/Student-Social-Media-Addiction-Analysis
+- 🐍 Customer-Segment-RFM - [https://github.com/akshay-code10/Customer-Segment--RFM](https://github.com/akshay-code10/Customer-Segment-RFM)
+- 📈 Amazon Sales Dashboard - https://github.com/akshay-code10/Amazon-Sales-Dashboard
+- 📊 Customer-Insights-Statistical-Investigation - https://github.com/akshay-code10/Customer-Insights-Statistical-Investigation
+- 🗄️ Retail-Store-Management-System - https://github.com/akshay-code10/Retail-Store-Management-System
+- 📊 Student Social Media Addiction Analysis - https://github.com/akshay-code10/Student-Social-Media-Addiction-Analysis
 
 ---
 

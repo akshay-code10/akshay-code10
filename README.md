@@ -28,6 +28,7 @@
 ---
 
 ## 📂 Projects
+- 💳 UPI-Fraud-Risk-Transaction-Analytics - https://github.com/akshay-code10/UPI-Fraud-Risk-Transaction-Analytics
 - 🐍  Python Project (Customer-Segment-RFM) - [https://github.com/akshay-code10/Customer-Segment--RFM](https://github.com/akshay-code10/Customer-Segment-RFM)
 - 📈 Excel Project (Amazon Sales Dashboard) - https://github.com/akshay-code10/Amazon-Sales-Dashboard
 - 📊 Statistics Project (Customer-Insights-Statistical-Investigation) - https://github.com/akshay-code10/Customer-Insights-Statistical-Investigation
